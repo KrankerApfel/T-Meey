@@ -3,14 +3,14 @@
   | | |___| | | | -_| -_| | |
   |_|     |_|_|_|___|___|_  |
                       |___|
-	ƒ`ƒ‡ƒRƒŒ[ƒgƒNƒbƒL[      
+	ãƒãƒ§ã‚³ãƒ¬ãƒ¼ãƒˆã‚¯ãƒƒã‚­ãƒ¼      
 ---------------------------------------------
 
- ƒ_ƒEƒ“ƒ[ƒh‚ ‚è‚ª‚Æ‚¤ / Thanks for downloading!
+ ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã‚ã‚ŠãŒã¨ã† / Thanks for downloading!
 
 ---------------------------------------------
 
-ƒeƒBƒ~ T-Meey ALL CHOCOLATE COOKIE ver. 1.0
+ãƒ†ã‚£ãƒŸ T-Meey ALL CHOCOLATE COOKIE ver. 1.0
 
 VCV Voicebank (F3)
 Recommanded resampler: doppelter64 | EFB-GT
@@ -22,35 +22,36 @@ Please check https://github.com/KrankerApfel/T-Meey/blob/master/README.md
 
 ---------------------------------------------
 
-yInformation (GENERAL)z
+ã€Information (GENERAL)ã€‘
 
-–¼‘O/Name: ƒeƒBƒ~ T-Meey
+åå‰/Name: ãƒ†ã‚£ãƒŸ T-Meey
 
-”N—î/Age:@23Î
+å¹´é½¢/Age:ã€€23æ­³
 
-g’·/Height:  169cm     
+èº«é•·/Height:  169cm     
 
-«•Ê/Sex: ’jq/Male (Transgender)
+æ€§åˆ¥/Sex: ç”·å­/Male (Transgender)
 
-D‚«/Likes:  chocolate, puns, wearing scarfs, coding.
+å¥½ã/Likes:  chocolate, puns, wearing scarfs, coding.
 
-Œ™‚¢/Dislikes: Lies, loud noises, horror movies.
+å«Œã„/Dislikes: Lies, loud noises, horror movies.
 
-’†‚Ìl/Voicer:@KrankerApfel
+ä¸­ã®äºº/Voicer:ã€€KrankerApfel
 
 
-yInformation (ALL CHOCOLATE COOKIE)z
+ã€Information (ALL CHOCOLATE COOKIE)ã€‘
 
 He is a dreamer, sleepyhead but can becoming very hyperactive sometimes. He is a sciences nerds but also a creativ mind. He love teasing people, boast and make puns, that is quiet annoying for others. He use to comfort his friends when they struggle, but he secretly suffers of anxiety himself.
 ---------------------------------------------
-ƒNƒŒƒWƒbƒg / CREDITS
+ã‚¯ãƒ¬ã‚¸ãƒƒãƒˆ / CREDITS
 
-Character icon is drawn by @krankerapfel on twitter!
+Character profile icon and portrait is drawn by Kranker Apfel.
+Oto.ini by KazumiXD.
 
 ---------------------------------------------
-˜A—æ
+é€£çµ¡å…ˆ
 
 Soundcloud: https://soundcloud.com/meey-project
 Website: https://meey-project.tumblr.com
 ---------------------------------------------
-–Œë–ó\‚µ–ó‚ ‚è‚Ü‚¹‚ñA„‚Í‰pŒê‚ğ˜b‚µ‚Ü‚·B
+ï¼Šèª¤è¨³ç”³ã—è¨³ã‚ã‚Šã¾ã›ã‚“ã€ç§ã¯è‹±èªã‚’è©±ã—ã¾ã™ã€‚
