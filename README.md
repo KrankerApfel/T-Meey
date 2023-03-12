@@ -15,7 +15,7 @@ Please, always credit KrankerApfel as the voicer/creator of the voicebank.
 
 # Voicebank sorted by languages
 
-## FR
+## French 
 
 * **Chocolatine :** 
   - Teenage boy soft voice
