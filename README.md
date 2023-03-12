@@ -18,10 +18,10 @@ Please, always credit KrankerApfel as the voicer/creator of the voicebank.
 ## FR
 
 * **Chocolatine :** 
-  - (available soon !!)
   - Teenage boy soft voice
   - Monopitch F3
   - FR CVVC compatible with Mim Phonemizer
+  - DEMO : https://www.youtube.com/watch?v=3n0ABC9V-1Y
 
 
 ## Japanese
@@ -30,3 +30,4 @@ Please, always credit KrankerApfel as the voicer/creator of the voicebank.
     - Young boy soft voice
     - Monopitch F3 
     - JA VCV compatible with both JA VCV and JA CVVC phonemizer
+    - DEMO : https://www.youtube.com/watch?v=WA4z_RDI_Vc
